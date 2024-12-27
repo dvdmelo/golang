@@ -7,9 +7,11 @@ docker pull dvdmelo/fullcycle
 
 Imagem com menos de 2.MB
 
-![image](https://github.com/user-attachments/assets/f3e562bf-4818-4121-a790-29520bdc6b05)
+![image](https://github.com/user-attachments/assets/da7ce542-7c5b-4f96-a01e-e199c5118dbd)
+
 
 
 Execução do container
-![image](https://github.com/user-attachments/assets/fbbf7125-e9f8-4dba-b2ae-edbed578f48b)
+
+![image](https://github.com/user-attachments/assets/f3e562bf-4818-4121-a790-29520bdc6b05)
 
