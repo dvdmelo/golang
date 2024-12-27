@@ -2,7 +2,8 @@
 Desafio Ful Cycle 3.0
 
 
-Baixar imagem 
+Comando para Baixar imagem 
+
 docker pull dvdmelo/fullcycle
 
 Imagem com menos de 2.MB
