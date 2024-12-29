@@ -15,5 +15,6 @@ Imagem com menos de 2.MB
 
 Execução do container
 
-![image](https://github.com/user-attachments/assets/f3e562bf-4818-4121-a790-29520bdc6b05)
+![image](https://github.com/user-attachments/assets/411992b6-c551-4e3d-80c8-effb4e02282d)
+
 
