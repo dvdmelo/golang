@@ -1,10 +1,13 @@
 # golang
 Desafio Ful Cycle 3.0
 
+Link DockerHub
+
+https://hub.docker.com/r/dvdmelo/fullcycle
 
 Comando para Baixar imagem 
 
-docker pull dvdmelo/fullcycle
+docker pull dvdmelo/fullcycle:latest
 
 Imagem com menos de 2.MB
 
